@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "torrent-streamer",
+      ""
+    ]
+  ],
+  "_from": "torrent-streamer@latest",
+  "_id": "torrent-streamer@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/torrent-streamer",
+  "_nodeVersion": "5.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/torrent-streamer-1.0.0.tgz_1456470073255_0.5674898130819201"
+  },
+  "_npmUser": {
+    "email": "makmik@makmik.com",
+    "name": "makmik"
+  },
+  "_npmVersion": "3.7.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "torrent-streamer",
+    "raw": "torrent-streamer",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "6711419ff90df082765303e179ad5bc7d924d209",
+  "_shrinkwrap": null,
+  "_spec": "torrent-streamer",
+  "_where": "",
+  "author": {
+    "name": "makmik"
+  },
+  "dependencies": {
+    "opensubtitles-api": "^2.4.0",
+    "peerflix": "^0.32.4",
+    "request": "^2.69.0",
+    "shutdown-handler": "^1.0.1",
+    "thepiratebay": "^0.2.6"
+  },
+  "description": "Search for torrents and stream it",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6711419ff90df082765303e179ad5bc7d924d209",
+    "tarball": "http://registry.npmjs.org/torrent-streamer/-/torrent-streamer-1.0.0.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "makmik@makmik.com",
+      "name": "makmik"
+    }
+  ],
+  "name": "torrent-streamer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
